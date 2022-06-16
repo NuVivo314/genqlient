@@ -13,3 +13,5 @@ require (
 	golang.org/x/tools v0.1.10
 	gopkg.in/yaml.v2 v2.4.0
 )
+
+replace github.com/Khan/genqlient => github.com/NuVivo314/genqlient v0.4.3-tmp
