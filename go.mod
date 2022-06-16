@@ -1,4 +1,4 @@
-module github.com/Khan/genqlient
+module github.com/NuVivo314/genqlient
 
 go 1.16
 
